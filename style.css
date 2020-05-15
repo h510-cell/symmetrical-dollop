@@ -1,0 +1,15 @@
+h1{
+    Color: red;
+}
+
+.header{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
